@@ -1,0 +1,17 @@
+16
+lobby 5 4 -1 -1
+room1 2 5 0 -1
+room2 3 6 1 -1
+room3 4 7 2 -1
+room4 -1 8 4 0
+room5 6 9 0 1
+room6 7 10 5 2
+room7 -1 11 6 3
+room8 9 12 -1 4
+room9 10 13 8 5
+room10 -1 14 9 6
+room11 -1 15 -1 7
+room12 -1 -1 -1 8
+room13 14 -1 -1 9
+room14 15 -1 13 10
+room15 -1 -1 14 11
